@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 [![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/robertjchristian/angular-enterprise-seed/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
 
 # Angular Enterprise Seed
@@ -61,3 +62,6 @@
 * Issues are tracked in github issues.
 * NOTE:  All changes to master are automatically updated to gh-pages (http://robertjchristian.github.com/angular-enterprise-seed/#/) within 24 hours.
 
+=======
+This is the personal website of Jacobus Harding. Don't mess around
+>>>>>>> 85114b5f7d8e4c2e2c69f2f62e5cad88777dbb8a
